@@ -1,0 +1,12 @@
+.product-details {
+  text-align: center;
+}
+
+.product-details img {
+  max-width: 100%;
+}
+
+.product-details p {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
